@@ -108,50 +108,48 @@ Some tiles contain special spaces that grant specific actions:
 - Consider tile placement carefully - both *labyrinth and exit tiles* can help or hinder any player's progress.
 - Be cautious: the *exit tile* area is deadly, and being one space away from the exit space reduces your chances of winning.
 
-
 ---
-
 
 # Extras
 
-## Exemplo de tabuleiro todo montado
+## Complete board example
 
-<img src="img/cartas_completo.png" title="Tabuleiro inteiro" alt="Tabuleiro inteiro" data-align="center">
+<img src="img/cartas_completo.png" title="Complete board example" alt="Complete board example" data-align="center">
 
-## Caixa para imprimir
+## Printable package
 
-![](img/caixa.png "Caixa para imprimir")
+![](img/caixa.png "Printable package")
 
-## Detalhes técnicos das cartas
+## Technical card details
 
-- Quadriculado: cinza, com 2px nas bordas e 4px interno.
-- Traçado: preto, 15px nas bordas e 30px interno.
+- Grid: gray, 2px borders and 4px internal lines
+- Walls: black, 15px borders and 30px internal walls
 
-**medidas das cartas**
-
-- 3x6 quadrados de 228 pixels
+**Card Dimensions**
+  
+- 3x6 squares of 228 pixels each
 - 684x1368 pixels
-- 5,79x11,58 cm
- 
-**medidas totais**
-
-- labirinto todo (4x10 cartas - 24x30 células)
+- 5.79x11.58 cm (2.28x4.56 inches)
+- 
+**Total Board Dimensions**
+  
+- Complete labyrinth (4x10 cards - 24x30 cells)
 - 5472x6840 pixels
-- 46,33x57,91 cm
+- 46.33x57.91 cm (18.24x22.80 inches)
 
 ---
 
-# Versão
+# Version
 
 Versão 1.0  
-Última revisão: 11:50 11/01/2025
+Version 1.0 Last updated: 11:50 01/11/2025
 
 ---
 
 # Copyright
 
-Labydo é um jogo criado por Roberto Strabelli  
+Labydo is a game created by Roberto Strabelli  
 robertostrabelli@gmail.com  
-2024 (C) [Alguns direitos reservados](license.md)
+2024 (C) [Some rights reserved](license.md)
 
-Resumidamente: você pode imprimir para jogar, não pode imprimir para comercializar.
+In short: you may print it for play, but not for commercial purposes.
