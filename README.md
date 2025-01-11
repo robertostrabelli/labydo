@@ -1,6 +1,6 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-yellow.svg)](README.pt-br.md)
-[![eo](https://img.shields.io/badge/lang-eo-green.svg)](README.eo.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](readme.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-yellow.svg)](readme.pt-br.md)
+[![eo](https://img.shields.io/badge/lang-eo-green.svg)](readme.eo.md)
 
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center">
 
