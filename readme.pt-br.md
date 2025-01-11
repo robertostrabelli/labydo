@@ -4,21 +4,13 @@
 
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center">
 
-**Labydo** é um jogo de tabuleiro dinâmico e estratégico para jogadores que gostam de competição e desafios táticos.
+**Labydo** é um jogo de tabuleiro dinâmico e estratégico para jogadores que gostam de competição e desafios táticos. Ideal para fãs de jogos clássicos como Ludo que querem uma experiência mais desafiadora e partidas cheias de interação e estratégia.
 
-Em um tabuleiro modular que cresce com o avanço da partida, os jogadores constroem um labirinto enquanto correm para alcançar a saída primeiro. Mas cuidado: caminhos mal planejados e embates ferozes podem mudar completamente o rumo do jogo!
-
-##### Para quem é?
-
-Ideal para fãs de jogos clássicos como Ludo que querem uma experiência mais desafiadora e partidas cheias de interação e estratégia.
-
-*Prepare-se para correr no labirinto mais imprevisível que você já viu!*
+Em um tabuleiro modular que cresce com o avanço da partida, os jogadores constroem um labirinto enquanto correm para alcançar a saída. Mas cuidado: caminhos mal planejados e embates ferozes podem mudar completamente o rumo do jogo! *Prepare-se para correr no labirinto mais imprevisível que você já viu!*
 
 ---
 
-
 <img src="img/labydo.png" title="labydo" alt="labydo" data-align="center">
-
 
 # REGRAS
 
