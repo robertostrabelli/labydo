@@ -164,6 +164,6 @@ Versão 1.0
 
 Labydo é um jogo criado por Roberto Strabelli  
 robertostrabelli@gmail.com  
-2024 (C) Alguns direitos reservados
+2024 (C) [Alguns direitos reservados](license.md)
 
-Você pode imprimir para jogar, não pode imprimir para comercializar
+Resumidamente: você pode imprimir para jogar, não pode imprimir para comercializar.
