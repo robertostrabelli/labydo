@@ -24,93 +24,90 @@ On a modular board that grows as the game progresses, players build a labyrinth 
 
 Each labyrinth tile features 18 numbered spaces connected by pathways, with walls creating the maze-like structure. Players move their pawns through these spaces as the labyrinth expands with each new tile added. The first player to reach an exit space wins.
 
-## Componentes
+## Components
 
-- 4 peões
-- 3 dados de seis lados
-- 40 cartas-labirinto
-- 4 cartas-saída
-- 4 cartas-entrada 
+- 4 pawns
+- 3 six-sided dice
+- 40 labyrinth tiles
+- 4 exit tiles
+- 4 entrance tiles
 
-## Preparativos
+## Setup
 
-1. Embaralhe os três grupos de cartas separadamente (*cartas-labirinto*, *cartas-entrada* e *cartas-saída*).
-2. Distribua 5 *cartas-labirinto* e 1 *carta-entrada* para cada jogador. O jogador é livre para ocultar ou exibir suas cartas.
-3. Forme três montes com o restante das cartas.
-4. Cada jogador deve pôr na mesa sua *carta-entrada* e nela seu peão, na casa correspondente. As *cartas-entrada* de todos devem ser alinhadas para formar uma fileira inicial.
-5. Deixe um bom espaço livre à frente para a expansão do labirinto.
-6. Em seguida, cada jogador deve posicionar uma *carta-labirinto* em continuidade à sua *carta-entrada*, na posição que quiser, desde que as bordas (arestas e vértices) das cartas se alinhem e encostem.
-7. O jogador inicial pode ser escolhido livremente.
+1. Shuffle the three groups of tiles separately (*labyrinth tiles*, *entrance tiles*, and *exit tiles*).
+2. Deal 5 *labyrinth tiles* and 1 *entrance tile* to each player. Players may choose to keep their tiles hidden or visible.
+3. Form three separate draw piles with the remaining tiles.
+4. Each player places their *entrance tile* and their pawn on the corresponding space. All *entrance tiles* should be aligned to form the starting row.
+5. Leave plenty of space in front for the labyrinth to expand.
+6. Each player then places one *labyrinth tile* connecting to their *entrance tile*, in any orientation they wish, as long as the edges and corners of the tiles align.
+7. Choose a starting player by any method.
 
-## Mecânica do jogo
+## Gameplay
 
-Existem quatro jogadas distintas durante um jogo de **Labydo**. A jogada deve ser comunicada aos outros jogadores antes de lançar os dados.
+There are four different types of actions in **Labydo**. Players must announce their intended action before rolling the dice.
 
-### 1- Jogada normal ou de movimentação
+### 1- Standard Movement
 
-O jogador da vez lança os três dados simultaneamente e age conforme o resultado. O peão se move apenas na vertical e na horizontal.
+The active player rolls all three dice simultaneously and acts according to the result. Pawns move only orthogonally (vertically and horizontally).
 
-- <u>Dois ou três números sequenciais ou iguais (ex.: 1, 2 e 5 ou 4, 4 e 2)</u>: posicione uma de suas *cartas-labirinto* junto a outra *carta-labirinto* que já esteja na mesa e jogue novamente os dados para mover seu peão o número de casas obtido (ou menos) na direção que quiser.
-- <u>Qualquer outro resultado</u>: movimente seu peão o número de casas obtido (ou menos) na direção que quiser.
+- <u>If you roll two or three sequential or matching numbers (e.g., 1, 2, and 5 or 4, 4, and 2)</u>: Place one of your *labyrinth tiles* adjacent to any tile already on the board, then roll again to move your pawn up to the number of spaces shown.
+- <u>Any other result</u>: Move your pawn up to the number of spaces shown in any direction.
 
-#### Notas
+#### Notes:
 
-- Em uma jogada normal, o jogador pode andar o número exato obtido nos dados, menos do que isso, ou não se movimentar.
-- As *cartas-labirinto* acrescentadas podem ficar paralelas ou perpendiculares, desde que as arestas e vértices se alinhem.
-- Não se deve sobrepor cartas.
-- Se em algum momento o jogador ficar sem *cartas-labirinto* para acrescentar, deve pegar mais 5 do monte. Se todas as cartas do monte estiverem no jogo, a carta mais próxima à *carta-entrada* do jogador do turno e as seguintes devem ser usadas conforme o necessário, sempre retirando pelas primeiras que foram acrescentadas e no sentido do avanço do tabuleiro.
+- During a standard movement, you may move exactly the number shown on the dice, fewer spaces, or not move at all.
+- *Labyrinth tiles* may be placed parallel or perpendicular to existing tiles, as long as edges and corners align.
+- Tiles cannot overlap.
+- If you run out of *labyrinth tiles*, draw 5 more from the pile. If the draw pile is empty, take tiles from the board starting with those closest to your *entrance tile*, working forward. Only take tiles as needed, beginning with the earliest placed tiles.
 
-### 2- Jogada para se teletransportar
+### 2- Teleport Action
+When on a teleport space (*T*), you may move to an adjacent *labyrinth tile* in any direction. Declare your intended direction before rolling the dice. The dice result determines the space number where you must land.
 
-Se estiver em uma casa de teletransporte (*T*), o jogador pode se mover para uma *carta-labirinto* ao lado em qualquer direção. Ele deve avisar a direção e sua intenção antes de lançar os dados. O resultado dos dados vai dar o número da casa onde ele obrigatoriamente aterrissará. 
+- If the target space is occupied, this initiates combat and both pawns swap positions.
+- If you land on an occupied blocking space (*B*), the teleport fails and your turn ends.
 
-- Se a casa estiver ocupada, será um ataque e ambos trocarão de lugar.
-- Se cair numa casa de bloqueio (*B*) ocupada por outro jogador, o teletransporte falhará e o jogador perderá a vez.
+### 3- Acquiring an Exit Tile
 
-### 3- Jogada para obter uma carta-saída
+After traversing at least 5 *labyrinth tiles* (placed by any player) and while not on a blocking space (*B*), you may attempt to acquire an *exit tile* on your turn. Declare your attempt before rolling all three dice.
 
-Após ter percorrido pelo menos 5 *cartas-labirinto*, colocadas por ele ou não, e não estando numa casa especial de bloqueio (*B*), o jogador poderá na sua vez tentar adquirir uma *carta-saída*.
-Declare que vai tentar obter uma *carta-saída* e lance os três dados.
+- <u>If you roll three sequential or matching numbers (e.g., 2, 3, and 4 or 5, 5, and 5)</u>: Take the top *exit tile* and place it where you wish.
+- <u>Any other result</u>: Stay in your current position.
 
-- <u>Três números sequenciais ou iguais (ex.: 2, 3 e 4 ou 5, 5 e 5)</u>: retire a primeira *carta-saída* do topo do monte e posicione-a onde desejar.
-- <u>Outro resultado</u>: permaneça na posição atual.
+#### Notes:
 
-#### Notas
+- If unsuccessful, you may try again on your next turn or continue with standard movements.
+- Once placed, *exit tiles* are accessible to all players, even those who haven't crossed 5 *labyrinth tiles* yet.
 
-- O jogador que não conseguir uma *carta-saída* na primeira tentativa é livre para tentar no próximo turno ou continuar fazendo jogadas normais.
-- A *carta-saída* conquistada por um jogador é acessível aos demais, mesmo os que não tenham ainda percorrido 5 *cartas-labirinto*.
+### 4- Victory Move
 
-### 4- Jogada de saída para vencer o jogo
+1. When not on a blocking space (*B*), whether on an *exit tile* or not, you may attempt to win by announcing a victory move and rolling the dice. You must either roll the exact number needed to reach the exit space or roll a sum of three (1, 1, and 1).
+2. In games with more than two players, play can continue after the first winner:
+ - Remove the winning pawn and *exit tile* (place it at the bottom of its deck). Replace the exit tile with a *labyrinth tile*.
+ - If other pawns were on the *exit tile*, the winner moves them to space number one on adjacent *labyrinth tiles* of their choice.
 
-1. Não estando numa casa de bloqueio (*B*), estando sobre a *carta-saída* ou não, anuncie que vai tentar a saída e jogue os dados. Será necessário obter o número exato para aterrissar na casa de saída ou então a soma de três nos dados (1, 1 e 1).
-2. Em partidas com mais de dois jogadores o jogo pode continuar após o primeiro vencedor:
- - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
- - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
+## Combat Rules
 
-## Regras de combate
+1. You cannot jump over other pawns. You must stop in the space before an occupied space.
+2. If you roll the exact number to land on an occupied space and choose to do so, both pawns swap positions. This attack fails if the defending pawn is on a blocking space (*B*).
+3. An attacked player may counterattack on their turn. If successful, the original attacker must return to their *entrance tile* and start over, needing to cross 5 *labyrinth tiles* again before attempting to acquire an *exit tile*. If there's a gap between the *entrance tile* and the board, add necessary *labyrinth tiles* to bridge it.
+4. If combat occurs on an *exit tile*, the attacked player is eliminated from the game.
+5. If only one player remains after a series of battles, they win.
 
-1. Um jogador não pode pular outro. Ele deve parar na casa anterior.
-2. Ao tirar o número exato para aterrissar na casa ocupada por outro jogador, caso escolha essa ação, ambos trocam de lugar, com o jogador atacado sendo movido para a casa onde o jogador atacante estava. O ataque não funciona se o jogador atacado estiver numa casa de bloqueio (*B*).
-3. Um jogador atacado pode revidar na sua vez, e nesse caso o primeiro atacante será teletransportado para sua *carta-entrada* e terá que recomeçar como na primeira vez, tendo que percorrer pelo menos 5 *cartas-labirinto* para ter direito a apostar numa *carta-saída*. Caso haja espaço vazio entre a *carta-entrada* e o restante do tabuleiro, outras *cartas-labirinto* devem ser acrescentadas na quantidade necessária.
-4. Se um combate ocorrer numa *carta-saída*, o jogador atacado sairá do jogo definitivamente.
-5. Se após uma batalha generalizada sobrar apenas um jogador, ele vence.
+## Special Spaces
 
-## Sobre as casas especiais
+Some tiles contain special spaces that grant specific actions:
 
-Algumas cartas possuem casas especiais que permitem ao jogador realizar ações específicas.
+- **Teleport (T):**  Allows jumping between labyrinth tiles. See "Teleport Action" for details.
+- **Blocking (B):**  Grants immunity from attacks. However, only standard movement is allowed while on these spaces.
+- **Exit (S):**  Found only on *exit tiles*. Landing here with an exact roll or a sum of three (1, 1, 1) wins the game.
 
-- **Teletransporte:** sinalizadas com a letra *T*, permitem pular de uma *carta-labirinto* para outra. Consulte o item *"Jogada para se teletransportar"* para mais detalhes.
+## Strategy Tips
 
-- **Bloqueio:** sinalizadas com a letra *B*, deixam o jogador imune a ataques. Porém, estando nela, a única jogada permitida é a de movimentação.
+- Use teleport spaces (*T*) for quick movement or surprise attacks.
+- Temporary alliances can be beneficial.
+- Consider tile placement carefully - both *labyrinth and exit tiles* can help or hinder any player's progress.
+- Be cautious: the *exit tile* area is deadly, and being one space away from the exit space reduces your chances of winning.
 
-- **Saída:** somente encontradas nas *cartas-saída* e sinalizadas com a letra *S*. Numa jogada de saída, se o jogador conseguir o número exato para aterrissar nela ou a soma de três (1, 1 e 1), ele vencerá o jogo.
-
-## Sugestões de estratégia
-
-- Use as casas especiais de teletransporte (*T*) para se mover rapidamente ou realizar ataques.
-- Aliar-se temporariamente a outro jogador pode ser vantajoso.
-- Atenção ao acrescentar uma *carta-labirinto*. A carta e a posição podem ajudar ou atrasar sua corrida, assim como a dos seus concorrentes. Isso vale também para o posicionamento de uma *carta-saída*.
-- Cuidado: a área da *carta-saída* é mortal e ficar a uma casa de distância da casa de saída diminuirá suas chances de vencer.
 
 ---
 
