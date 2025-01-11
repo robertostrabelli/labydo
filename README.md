@@ -12,18 +12,17 @@ On a modular board that grows as the game progresses, players build a labyrinth 
 
 <img src="img/labydo.png" title="labydo" alt="labydo" data-align="center">
 
-# REGRAS
+# RULES
 
-- Jogadores: 2-4
-- Idade recomendada: 10+
-- Duração média da partida: 40 min.
+- Players: 2-4
+- Recommended age: 10+
+- Average game length: 40 min.
 
-## Objetivo
+## Objective
 
-**Labydo** é um jogo de corrida em um labirinto modular para 2 a 4 jogadores. 
-As *cartas-entrada* são o ponto inicial, as *cartas-labirinto* vão formando o tabuleiro com o percurso e as *cartas-saída* contêm a casa final para vitória.
+**Labydo** is a race game through a modular labyrinth for 2 to 4 players. The game board is built from three types of tiles: *entrance tiles* where players start, *labyrinth tiles* that form the pathways, and *exit tiles* containing the victory spaces.
 
-Cada *carta-labirinto* possui 18 casas numeradas, percorríveis por um peão, onde paredes entre as casas formam o percurso. O labirinto cresce à medida que novas cartas são adicionadas. Vence quem alcançar a saída primeiro.
+Each labyrinth tile features 18 numbered spaces connected by pathways, with walls creating the maze-like structure. Players move their pawns through these spaces as the labyrinth expands with each new tile added. The first player to reach an exit space wins.
 
 ## Componentes
 
