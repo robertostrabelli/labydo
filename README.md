@@ -141,8 +141,8 @@ Some tiles contain special spaces that grant specific actions:
 
 # Version
 
-Versão 1.0  
-Version 1.0 Last updated: 11:50 01/11/2025
+Version 1.0  
+Last updated: 11:50 01/11/2025
 
 ---
 
