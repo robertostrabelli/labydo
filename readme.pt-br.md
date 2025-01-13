@@ -157,7 +157,7 @@ Imprima o documento **cartas_print_A4.pdf** usando 8 folhas de papel A4 branco d
 # Versão
 
 Versão 1.0  
-Última revisão: 08:50 13/01/2025
+Última revisão: 17:50 13/01/2025
 
 ---
 
