@@ -82,8 +82,8 @@ After traversing at least 5 *labyrinth tiles* (placed by any player) and while n
 
 1. When not on a blocking space (*B*), whether on an *exit tile* or not, you may attempt to win by announcing a victory move and rolling the dice. You must either roll the exact number needed to reach the exit space (*S*) or roll a sum of three (1, 1, and 1).
 2. In games with more than two players, play can continue after the first winner:
-  - Remove the winning pawn and *exit tile* (place it at the bottom of its deck). Replace the exit tile with a *labyrinth tile*.
-  - If other pawns were on the *exit tile*, the winner moves them to space number one on adjacent *labyrinth tiles* of their choice.
+    - Remove the winning pawn and *exit tile* (place it at the bottom of its deck). Replace the exit tile with a *labyrinth tile*.
+    - If other pawns were on the *exit tile*, the winner moves them to space number one on adjacent *labyrinth tiles* of their choice.
 
 ## Combat Rules
 
