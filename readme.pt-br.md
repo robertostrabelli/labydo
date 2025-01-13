@@ -117,7 +117,7 @@ Algumas cartas possuem casas especiais que permitem ao jogador realizar ações 
 
 # Instruções para imprimir
 
-Imprima o documento cartas_print_A4.pdf usando 8 folhas de papel A4 de gramatura alta, com 200g ou 250g. Em seguida coloque as folhas novamente na impressora para imprimir do outro lado 8 vezes o documento cartas_print_back_A4.pdf. Recorte com cuidado as cartas, consiga três dados e quatro peões e divirta-se com seus amigos e familiares.
+Imprima o documento **cartas_print_A4.pdf** usando 8 folhas de papel A4 branco de gramatura alta, de 200 ou 250 gramas. Em seguida coloque as folhas novamente na impressora para imprimir do outro lado 8 vezes o documento **cartas_print_back_A4.pdf**. Para protejer as cartas, imprima também a caixa para montar que está no documento **caixa_print_A4.pdf**. Recorte com cuidado as cartas, consiga três dados e quatro peões e divirta-se com seus amigos e familiares :)
 
 ---
 
