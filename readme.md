@@ -4,7 +4,7 @@
 
 ***Translated from Portuguese***
 
-<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="300">
+<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** is a dynamic and strategic board game for players who enjoy competition and tactical challenges. Perfect for fans of classic games like Ludo who want a more challenging experience and gameplay full of interaction and strategy.
 
@@ -12,7 +12,7 @@ On a modular board that grows as the game progresses, players build a labyrinth 
 
 ---
 
-<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center">
+<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center" width="320">
 
 # RULES
 
@@ -122,11 +122,11 @@ Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A
 
 ## Labyrinth tile example
 
-<img src="img/carta_exemplo.png" title="Labyrinth tile example" alt="Labyrinth tile example" data-align="center">
+<img src="img/carta_exemplo.png" title="Labyrinth tile example" alt="Labyrinth tile example" data-align="center" width="320">
 
 ## Complete board example
 
-<img src="img/cartas_completo.png" title="Complete board example" alt="Complete board example" data-align="center">
+<img src="img/cartas_completo.png" title="Complete board example" alt="Complete board example" data-align="center" width="320">
 
 ## Printable package
 
