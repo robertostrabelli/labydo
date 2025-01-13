@@ -111,7 +111,7 @@ Algumas cartas possuem casas especiais que permitem ao jogador realizar ações 
 - Use as casas especiais de teletransporte (*T*) para se mover rapidamente ou realizar ataques.
 - Aliar-se temporariamente a outro jogador pode ser vantajoso.
 - Atenção ao acrescentar uma *carta-labirinto*. A carta e a posição podem ajudar ou atrasar sua corrida, assim como a dos seus concorrentes. Isso vale também para o posicionamento de uma *carta-saída*.
-- Cuidado: a área da *carta-saída* é mortal e ficar a uma casa de distância da casa de saída diminuirá suas chances de vencer.
+- Cuidado: a área da *carta-saída* é mortal e ficar a uma casa de distância da casa de saída (*S*) diminuirá suas chances de vencer.
 
 ---
 
