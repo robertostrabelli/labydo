@@ -152,8 +152,8 @@ Last updated: 21:50 01/12/2025
 
 # Copyright
 
-Labydo is a game created by Roberto Strabelli  
+Labydo is a game created by Roberto Strabelli in December 2024.  
 robertostrabelli@gmail.com  
-2024 (C) [Some rights reserved](license.md)
+[Some rights reserved](license.md)
 
 In short: you may print it for play, but not for commercial purposes.
