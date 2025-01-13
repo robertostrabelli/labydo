@@ -2,7 +2,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-yellow.svg)](readme.pt-br.md)
 [![eo](https://img.shields.io/badge/lang-eo-green.svg)](readme.eo.md)
 
-Salvo para a posteridade em https://archive.org/details/labydo no dia 13/01/2025
+Salvo para a posteridade em https://archive.org/details/labydo no dia 13 de janeiro de 2025.
 
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
