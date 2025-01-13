@@ -148,7 +148,7 @@ Algumas cartas possuem casas especiais que permitem ao jogador realizar ações 
 # Versão
 
 Versão 1.0  
-Última revisão: 11:50 11/01/2025
+Última revisão: 21:50 12/01/2025
 
 ---
 
