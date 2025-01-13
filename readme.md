@@ -112,9 +112,9 @@ Some tiles contain special spaces that grant specific actions:
 
 # Extras
 
-## Example card
+## Labyrinth tile example
 
-<img src="img/carta_exemplo.png" title="Example card" alt="Example card" data-align="center">
+<img src="img/carta_exemplo.png" title="Labyrinth tile example" alt="Labyrinth tile example" data-align="center">
 
 ## Complete board example
 
