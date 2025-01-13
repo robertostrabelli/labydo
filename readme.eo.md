@@ -4,7 +4,7 @@
 
 ***Tradukita el la portugala***
 
-<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center">
+<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** estas dinamika kaj strategia tabulludo por ludantoj, kiuj ŝatas konkurencon kaj taktikajn defiojn. Ideala por ŝatantoj de klasikaj ludoj kiel Ludo, kiuj deziras pli defian sperton kaj partiojn plenajn je interago kaj strategio.
 
@@ -12,7 +12,7 @@ Sur modula tabulo, kiu kreskas dum la partio progresas, la ludantoj konstruas la
 
 ---
 
-<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center">
+<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center" width="320">
 
 # REGULOJ
 
@@ -125,15 +125,15 @@ Presu la dokumenton **cartas_print_A4.pdf** uzante 8 foliojn de blanka A4-papero
 
 ## Ekzemplo de labirintokarto
 
-<img src="img/carta_exemplo.png" title="Ekzemplo de labirintokarto" alt="Ekzemplo de labirintokarto" data-align="center">
+<img src="img/carta_exemplo.png" title="Ekzemplo de labirintokarto" alt="Ekzemplo de labirintokarto" data-align="center" width="320">
 
 ## Ekzemplo de plene kunmetita tabulo
 
-<img src="img/cartas_completo.png" title="Ekzemplo de plene kunmetita tabulo" alt="Ekzemplo de plene kunmetita tabulo" data-align="center">
+<img src="img/cartas_completo.png" title="Ekzemplo de plene kunmetita tabulo" alt="Ekzemplo de plene kunmetita tabulo" data-align="center" width="320">
 
 ## Ludskatolo por presi kaj kunmeti
 
-![](img/caixa.png "Ludskatolo por presi kaj kunmeti")
+<img src="img/caixa.png" title="Ludskatolo por presi kaj kunmeti" alt="Ludskatolo por presi kaj kunmeti" data-align="center" width="320">
 
 ## Teknikaj detaloj de la kartoj
 
