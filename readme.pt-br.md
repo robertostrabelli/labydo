@@ -2,7 +2,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-yellow.svg)](readme.pt-br.md)
 [![eo](https://img.shields.io/badge/lang-eo-green.svg)](readme.eo.md)
 
-<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center">
+<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** é um jogo de tabuleiro dinâmico e estratégico para jogadores que gostam de competição e desafios táticos. Ideal para fãs de jogos clássicos como Ludo que querem uma experiência mais desafiadora e partidas cheias de interação e estratégia.
 
@@ -10,7 +10,7 @@ Em um tabuleiro modular que cresce com o avanço da partida, os jogadores constr
 
 ---
 
-<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center">
+<img src="img/labydo.png" title="labydo" alt="labydo" data-align="center" width="320">
 
 # REGRAS
 
@@ -125,15 +125,15 @@ Imprima o documento **cartas_print_A4.pdf** usando 8 folhas de papel A4 branco d
 
 ## Exemplo de carta-labirinto
 
-<img src="img/carta_exemplo.png" title="Exemplo de carta" alt="Exemplo de carta" data-align="center">
+<img src="img/carta_exemplo.png" title="Exemplo de carta" alt="Exemplo de carta" data-align="center" width="320">
 
 ## Exemplo de tabuleiro todo montado
 
-<img src="img/cartas_completo.png" title="Tabuleiro inteiro" alt="Tabuleiro inteiro" data-align="center">
+<img src="img/cartas_completo.png" title="Tabuleiro inteiro" alt="Tabuleiro inteiro" data-align="center" width="320">
 
 ## Caixa para imprimir
 
-![](img/caixa.png "Caixa para imprimir")
+<img src="img/caixa.png" title="Caixa para imprimir" alt="Caixa para imprimir" data-align="center" width="320">
 
 ## Detalhes técnicos das cartas
 
