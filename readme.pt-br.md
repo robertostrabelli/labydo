@@ -118,6 +118,10 @@ Algumas cartas possuem casas especiais que permitem ao jogador realizar ações 
 
 # Extras
 
+## Exemplo de carta
+
+<img src="img/carta_exemplo.png" title="Exemplo de carta" alt="Exemplo de carta" data-align="center">
+
 ## Exemplo de tabuleiro todo montado
 
 <img src="img/cartas_completo.png" title="Tabuleiro inteiro" alt="Tabuleiro inteiro" data-align="center">
