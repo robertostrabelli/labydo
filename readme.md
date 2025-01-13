@@ -110,6 +110,12 @@ Some tiles contain special spaces that grant specific actions:
 
 ---
 
+# Printing instructions
+
+Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A4 paper, 200 or 250 grams. Then put the sheets back in the printer to print the document **cartas_print_back_A4.pdf** 8 times on the other side. To protect the cards, also print the assembly box that is in the document **caixa_print_A4.pdf**. Carefully cut out the cards, get three dice and four pawns and have fun with your friends and family :)
+
+---
+
 # Extras
 
 ## Labyrinth tile example
