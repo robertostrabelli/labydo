@@ -4,7 +4,7 @@
 
 ***Translated from Portuguese***
 
-<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center">
+<img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="300">
 
 **Labydo** is a dynamic and strategic board game for players who enjoy competition and tactical challenges. Perfect for fans of classic games like Ludo who want a more challenging experience and gameplay full of interaction and strategy.
 
