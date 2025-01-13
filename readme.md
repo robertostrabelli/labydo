@@ -112,6 +112,10 @@ Some tiles contain special spaces that grant specific actions:
 
 # Extras
 
+## Example card
+
+<img src="img/carta_exemplo.png" title="Example card" alt="Example card" data-align="center">
+
 ## Complete board example
 
 <img src="img/cartas_completo.png" title="Complete board example" alt="Complete board example" data-align="center">
