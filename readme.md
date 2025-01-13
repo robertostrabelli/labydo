@@ -130,7 +130,7 @@ Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A
 
 ## Printable package
 
-![](img/caixa.png "Printable package")
+<img src="img/caixa.png" title="Printable package" alt="Printable package" data-align="center" width="320">
 
 ## Technical card details
 
