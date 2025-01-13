@@ -156,7 +156,7 @@ Presu la dokumenton **cartas_print_A4.pdf** uzante 8 foliojn de blanka A4-papero
 
 # Versiaro
 
-Versio 1.0
+Versio 1.0  
 Lasta revizio: 21:50 12/01/2025
 
 ---
