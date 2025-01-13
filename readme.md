@@ -154,7 +154,7 @@ Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A
 # Version
 
 Version 1.0  
-Last updated: 21:50 01/12/2025
+Last updated: 08:50 01/13/2025
 
 ---
 
