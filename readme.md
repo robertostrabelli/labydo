@@ -80,10 +80,10 @@ After traversing at least 5 *labyrinth tiles* (placed by any player) and while n
 
 ### 4- Victory Move
 
-1. When not on a blocking space (*B*), whether on an *exit tile* or not, you may attempt to win by announcing a victory move and rolling the dice. You must either roll the exact number needed to reach the exit space or roll a sum of three (1, 1, and 1).
+1. When not on a blocking space (*B*), whether on an *exit tile* or not, you may attempt to win by announcing a victory move and rolling the dice. You must either roll the exact number needed to reach the exit space (*S*) or roll a sum of three (1, 1, and 1).
 2. In games with more than two players, play can continue after the first winner:
- - Remove the winning pawn and *exit tile* (place it at the bottom of its deck). Replace the exit tile with a *labyrinth tile*.
- - If other pawns were on the *exit tile*, the winner moves them to space number one on adjacent *labyrinth tiles* of their choice.
+  - Remove the winning pawn and *exit tile* (place it at the bottom of its deck). Replace the exit tile with a *labyrinth tile*.
+  - If other pawns were on the *exit tile*, the winner moves them to space number one on adjacent *labyrinth tiles* of their choice.
 
 ## Combat Rules
 
@@ -97,7 +97,7 @@ After traversing at least 5 *labyrinth tiles* (placed by any player) and while n
 
 Some tiles contain special spaces that grant specific actions:
 
-- **Teleport (T):**  Allows jumping between labyrinth tiles. See "Teleport Action" for details.
+- **Teleport (T):**  Allows jumping between connected labyrinth tiles. See "Teleport Action" for details.
 - **Blocking (B):**  Grants immunity from attacks. However, only standard movement is allowed while on these spaces.
 - **Exit (S):**  Found only on *exit tiles*. Landing here with an exact roll or a sum of three (1, 1, 1) wins the game.
 
@@ -106,7 +106,7 @@ Some tiles contain special spaces that grant specific actions:
 - Use teleport spaces (*T*) for quick movement or surprise attacks.
 - Temporary alliances can be beneficial.
 - Consider tile placement carefully - both *labyrinth and exit tiles* can help or hinder any player's progress.
-- Be cautious: the *exit tile* area is deadly, and being one space away from the exit space reduces your chances of winning.
+- Be cautious: the *exit tile* area is deadly, and being one space away from the exit space (*S*) reduces your chances of winning.
 
 ---
 
