@@ -20,11 +20,11 @@ On a modular board that grows as the game progresses, players build a labyrinth 
 - Recommended age: 10+
 - Average game length: 40 min.
 
-## Objective
+## Game Objective
 
 **Labydo** is a race game through a modular labyrinth for 2 to 4 players. The game board is built from three types of tiles: *entrance tiles* where players start, *labyrinth tiles* that form the pathways, and *exit tiles* containing the victory spaces.
 
-Each labyrinth tile features 18 numbered spaces connected by pathways, with walls creating the maze-like structure. Players move their pawns through these spaces as the labyrinth expands with each new tile added. The first player to reach an exit space wins.
+Each *labyrinth tile* features 18 numbered spaces connected by pathways, with walls creating the maze-like structure. Players move their pawns across these spaces, with the labyrinth expanding as new tiles are added. The first player to reach an exit space wins.
 
 ## Components
 
@@ -40,9 +40,9 @@ Each labyrinth tile features 18 numbered spaces connected by pathways, with wall
 2. Deal 5 *labyrinth tiles* and 1 *entrance tile* to each player. Players may choose to keep their tiles hidden or visible.
 3. Form three separate draw piles with the remaining tiles.
 4. Each player places their *entrance tile* and their pawn on the corresponding space. All *entrance tiles* should be aligned to form the starting row.
-5. Leave plenty of space in front for the labyrinth to expand.
+5. Ensure there is ample space ahead for the labyrinth to expand.
 6. Each player then places one *labyrinth tile* connecting to their *entrance tile*, in any orientation they wish, as long as the edges and corners of the tiles align.
-7. Choose a starting player by any method.
+7. Determine the starting player by any agreed-upon method.
 
 ## Gameplay
 
@@ -59,11 +59,11 @@ The active player rolls all three dice simultaneously and acts according to the 
 
 - During a standard movement, you may move exactly the number shown on the dice, fewer spaces, or not move at all.
 - *Labyrinth tiles* may be placed parallel or perpendicular to existing tiles, as long as edges and corners align.
-- Tiles cannot overlap.
+- Tiles must not overlap with existing tiles on the board.
 - If you run out of *labyrinth tiles*, draw 5 more from the pile. If the draw pile is empty, take tiles from the board starting with those closest to your *entrance tile*, working forward. Only take tiles as needed, beginning with the earliest placed tiles.
 
 ### 2- Teleport Action
-When on a teleport space (*T*), you may move to an adjacent *labyrinth tile* in any direction. Declare your intended direction before rolling the dice. The dice result determines the space number where you must land.
+When on a teleport space (*T*), you may move to an adjacent *labyrinth tile* in any direction. Declare your intended direction before rolling the dice. The dice roll determines the specific space you must land on.
 
 - If the target space is occupied, this initiates combat and both pawns swap positions.
 - If you land on an occupied blocking space (*B*), the teleport fails and your turn ends.
@@ -89,8 +89,8 @@ After traversing at least 5 *labyrinth tiles* (placed by any player) and while n
 
 ## Combat Rules
 
-1. You cannot jump over other pawns. You must stop in the space before an occupied space.
-2. If you roll the exact number to land on an occupied space and choose to do so, both pawns swap positions. This attack fails if the defending pawn is on a blocking space (*B*).
+1. Pawns cannot leap over other pawns. You must stop in the space before an occupied space.
+2. If you roll the exact number needed to land on an occupied space and choose to proceed, both pawns swap positions. This attack fails if the defending pawn is on a blocking space (*B*).
 3. An attacked player may counterattack on their turn. If successful, the original attacker must return to their *entrance tile* and start over, needing to cross 5 *labyrinth tiles* again before attempting to acquire an *exit tile*. If there's a gap between the *entrance tile* and the board, add necessary *labyrinth tiles* to bridge it.
 4. If combat occurs on an *exit tile*, the attacked player is eliminated from the game.
 5. If only one player remains after a series of battles, they win.
@@ -114,7 +114,10 @@ Some tiles contain special spaces that grant specific actions:
 
 # Printing instructions
 
-Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A4 paper, 200 or 250 grams. Then put the sheets back in the printer to print the document **cartas_print_back_A4.pdf** 8 times on the other side. To protect the cards, also print the assembly box that is in the document **caixa_print_A4.pdf**. Carefully cut out the cards, get three dice and four pawns and have fun with your friends and family :)
+- Print the document **cartas_print_A4.pdf** using 8 sheets of heavyweight white A4 paper, 200 or 250 grams. 
+- Reload the sheets into the printer to print the document **cartas_print_back_A4.pdf** on the reverse side of each, 8 times in total.
+- To protect the cards, also print the assembly box that is in the document **caixa_print_A4.pdf**.
+- Carefully cut out the cards, gather three dice and four pawns, and enjoy the game with your friends and family!
 
 ---
 
