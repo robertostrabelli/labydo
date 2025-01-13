@@ -6,9 +6,9 @@
 
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
-**Labydo** estas dinamika kaj strategia tabulludo por ludantoj, kiuj ŝatas konkurencon kaj taktikajn defiojn. Ideala por ŝatantoj de klasikaj ludoj kiel Ludo, kiuj deziras pli defian sperton kaj partiojn plenajn je interago kaj strategio.
+**Labydo** estas dinamika kaj strategia tabulludo por ludantoj, kiuj ĝuas konkuradon kaj taktikajn defiojn. Ĝi estas ideala por ŝatantoj de klasikaj ludoj kiel Ludo, kiuj serĉas pli defian sperton kaj partiojn plenajn de interagado kaj strategio.
 
-Sur modula tabulo, kiu kreskas dum la partio progresas, la ludantoj konstruas labirinton dum ili kuras por atingi la eliron. Sed atentu: malbone planitaj vojoj kaj ferocaj bataloj povas tute ŝanĝi la direkton de la ludo! *Preparu vin por kuri en la plej neantaŭvidebla labirinto, kiun vi iam vidis!*
+Sur modula tabulo, kiu kreskas dum la ludo progresas, la ludantoj konstruas labirinton kaj samtempe kuras por atingi la eliron. Sed atentu: malbone planitaj vojoj kaj surprizaj bataloj povas tute ŝanĝi la direkton de la ludo! *Preparu vin por navigi la plej neantaŭvideblan labirinton, kiun vi iam vidis!*
 
 ---
 
@@ -22,9 +22,9 @@ Sur modula tabulo, kiu kreskas dum la partio progresas, la ludantoj konstruas la
 
 ## Celo
 
-**Labydo** estas kursa ludo en modula labirinto por 2 ĝis 4 ludantoj. La *enirkartoj* estas la komenca punkto, la *labirintokartoj* formas la tabulon kun la vojo kaj la *elirkartoj* enhavas la finan spacon por venko.
+**Labydo** estas kursa ludo en modula labirinto por 2 ĝis 4 ludantoj. La *enirkartoj* markas la komencon, la *labirintokartoj* formas la vojojn, kaj la *elirkartoj* enhavas la finan celon.
 
-Ĉiu *labirintokarto* havas 18 numeritajn spacojn, traireblaj per peono, kie muroj inter la spacoj formas la vojon. La labirinto kreskas dum novaj kartoj estas aldonataj. Venkas tiu, kiu unue atingas la eliron.
+Ĉiu *labirintokarto* enhavas 18 numeritajn spacojn, traireblajn per peonoj, dum muroj inter la spacoj formas la vojojn. La labirinto kreskas dum novaj kartoj aldoniĝas. Venkas tiu, kiu unue atingas la eliron.
 
 ## Komponaĵoj
 
@@ -37,12 +37,12 @@ Sur modula tabulo, kiu kreskas dum la partio progresas, la ludantoj konstruas la
 ## Preparado
 
 1. Miksu la tri kartarojn aparte (*labirintokartoj*, *enirkartoj* kaj *elirkartoj*).
-2. Distribuu 5 *labirintokartojn* kaj 1 *enirkarton* al ĉiu ludanto. La ludanto povas kaŝi aŭ montri siajn kartojn.
+2. Donu al ĉiu ludanto 5 *labirintokartojn* kaj 1 *enirkarton*. Ludantoj povas kaŝi aŭ montri siajn kartojn.
 3. Formu tri stakojn kun la restantaj kartoj.
-4. Ĉiu ludanto devas meti sian *enirkarton* sur la tablon kaj sur ĝin sian peonon, sur la respondan spacon. La *enirkartoj* de ĉiuj devas esti vicigitaj por formi komencan vicon.
+4. Ĉiu ludanto metas sian *enirkarton* sur la tablon kun sia peono ĉe la komenca spaco. *Enirkartoj* devas esti vicigitaj por formi unuan vicon.
 5. Lasu bonan liberan spacon antaŭe por la ekspansio de la labirinto.
-6. Poste, ĉiu ludanto devas pozicii *labirintokarton* daŭrige al sia *enirkarto*, en la pozicio, kiun li deziras, kondiĉe ke la randoj (bordoj kaj verticoj) de la kartoj aligniĝu kaj tuŝu.
-7. La komenca ludanto povas esti libere elektita.
+6. Ĉiu ludanto devas aldoni unu *labirintokarton* apud sia *enirkarto*, certigante ke la randoj kaj verticoj de la kartoj kongruas.
+7. Elektu la unuan ludanton libere.
 
 ## Ludmekaniko
 
