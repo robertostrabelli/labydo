@@ -4,7 +4,7 @@
 
 ***Translated from Portuguese***
 
-Saved for posterity at https://archive.org/details/labydo on 1/13/2025
+Saved for posterity at https://archive.org/details/labydo on January 13, 2025.
 
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
