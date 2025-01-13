@@ -137,7 +137,7 @@ Presu la dokumenton **cartas_print_A4.pdf** uzante 8 foliojn de blanka A4-papero
 
 ## Teknikaj detaloj de la kartoj
 
-- Checkeded: griza, kun 2px sur la randoj kaj 4px interne.
+- Kradita: griza, kun 2px sur la randoj kaj 4px interne.
 - Bato: nigra, 15px sur la randoj kaj 30px interne.
 
 **kartaj mezuroj**
