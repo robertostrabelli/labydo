@@ -85,8 +85,8 @@ Declare que vai tentar obter uma *carta-saída* e lance os três dados.
 
 1. Não estando numa casa de bloqueio (*B*), estando sobre a *carta-saída* ou não, anuncie que vai tentar a saída e jogue os dados. Será necessário obter o número exato para aterrissar na casa de saída (*S*) ou então a soma de três nos dados (1, 1 e 1).
 2. Em partidas com mais de dois jogadores o jogo pode continuar após o primeiro vencedor:
- - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
- - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
+  - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
+  - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
 
 ## Regras de combate
 
