@@ -83,7 +83,7 @@ Declare que vai tentar obter uma *carta-saída* e lance os três dados.
 
 ### 4- Jogada de saída para vencer o jogo
 
-1. Não estando numa casa de bloqueio (*B*), estando sobre a *carta-saída* ou não, anuncie que vai tentar a saída e jogue os dados. Será necessário obter o número exato para aterrissar na casa de saída ou então a soma de três nos dados (1, 1 e 1).
+1. Não estando numa casa de bloqueio (*B*), estando sobre a *carta-saída* ou não, anuncie que vai tentar a saída e jogue os dados. Será necessário obter o número exato para aterrissar na casa de saída (*S*) ou então a soma de três nos dados (1, 1 e 1).
 2. Em partidas com mais de dois jogadores o jogo pode continuar após o primeiro vencedor:
  - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
  - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
@@ -100,7 +100,7 @@ Declare que vai tentar obter uma *carta-saída* e lance os três dados.
 
 Algumas cartas possuem casas especiais que permitem ao jogador realizar ações específicas.
 
-- **Teletransporte:** sinalizadas com a letra *T*, permitem pular de uma *carta-labirinto* para outra. Consulte o item *"Jogada para se teletransportar"* para mais detalhes.
+- **Teletransporte:** sinalizadas com a letra *T*, permitem pular de uma *carta-labirinto* para outra que esteja conectada a ela. Consulte o item *"Jogada para se teletransportar"* para mais detalhes.
 
 - **Bloqueio:** sinalizadas com a letra *B*, deixam o jogador imune a ataques. Porém, estando nela, a única jogada permitida é a de movimentação.
 
