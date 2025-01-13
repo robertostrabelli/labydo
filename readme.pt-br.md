@@ -123,7 +123,7 @@ Imprima o documento **cartas_print_A4.pdf** usando 8 folhas de papel A4 branco d
 
 # Extras
 
-## Exemplo de carta
+## Exemplo de carta-labirinto
 
 <img src="img/carta_exemplo.png" title="Exemplo de carta" alt="Exemplo de carta" data-align="center">
 
