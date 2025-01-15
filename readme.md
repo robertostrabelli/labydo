@@ -160,7 +160,7 @@ Some tiles contain special spaces that grant specific actions:
 
 2.0 - Labyrinth simplification.  
 1.0 - Initial release. 
-Last updated: 17:50 01/13/2025
+Last updated: 22:50 01/14/2025
 
 ---
 
