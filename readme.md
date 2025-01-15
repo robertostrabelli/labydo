@@ -150,15 +150,16 @@ Some tiles contain special spaces that grant specific actions:
 - 
 **Total Board Dimensions**
   
-- Complete labyrinth (4x10 cards - 24x30 cells)
-- 5472x6840 pixels
-- 46.33x57.91 cm (18.24x22.80 inches)
+- 4x12 cards - 24x36 cells
+- 8208x5472 pixels
+- 69,49x46,33 cm
 
 ---
 
 # Version
 
-Version 1.0  
+2.0 - Labyrinth simplification.  
+1.0 - Initial release. 
 Last updated: 17:50 01/13/2025
 
 ---
