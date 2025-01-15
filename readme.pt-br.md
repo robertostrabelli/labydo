@@ -87,8 +87,8 @@ Declare que vai tentar obter uma *carta-saída* e lance os três dados.
 
 1. Não estando numa casa de bloqueio (*B*), estando sobre a *carta-saída* ou não, anuncie que vai tentar a saída e jogue os dados. Será necessário obter o número exato para aterrissar na casa de saída (*S*) ou então a soma de três nos dados (1, 1 e 1).
 2. Em partidas com mais de dois jogadores o jogo pode continuar após o primeiro vencedor:
-    - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
-    - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
+   - O peão vencedor e a *carta-saída* são retirados do tabuleiro. Essa carta deve ser colocada por baixo do monte correspondente. No lugar dela deve ser colocada uma *carta-labirinto*.
+   - Se outros peões estiverem na *carta-saída*, eles devem ser movidos para as casas de número um das *cartas-labirinto* vizinhas, conforme escolha do vencedor, que deve realizar essas ações.
 
 ## Regras de combate
 
@@ -147,19 +147,20 @@ Imprima o documento **cartas_print_A4.pdf** usando 8 folhas de papel A4 branco d
 - 3x6 quadrados de 228 pixels
 - 684x1368 pixels
 - 5,79x11,58 cm
- 
-**medidas totais**
 
-- labirinto todo (4x10 cartas - 24x30 células)
-- 5472x6840 pixels
-- 46,33x57,91 cm
+**medidas do tabuleiro todo**
+
+- 4x12 cartas - 24x36 células
+- 8208x5472 pixels
+- 69,49x46,331 cm
 
 ---
 
 # Versão
 
-Versão 1.0  
-Última revisão: 17:50 13/01/2025
+2.0 - Simplificação do labirinto.  
+1.0 - Release inicial.  
+Última revisão: 22:50 14/01/2025
 
 ---
 
