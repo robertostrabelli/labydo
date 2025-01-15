@@ -2,8 +2,6 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-yellow.svg)](readme.pt-br.md)
 [![eo](https://img.shields.io/badge/lang-eo-green.svg)](readme.eo.md)
 
-Salvo para a posteridade em https://archive.org/details/labydo no dia 13 de janeiro de 2025.
-
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** é um jogo de tabuleiro dinâmico e estratégico para jogadores que gostam de competição e desafios táticos. Ideal para fãs de jogos clássicos como Ludo que querem uma experiência mais desafiadora e partidas cheias de interação e estratégia.
@@ -170,3 +168,5 @@ Labydo é um jogo criado por Roberto Strabelli em dezembro de 2024.
 robertostrabelli@gmail.com
 
 [Alguns direitos reservados](license.md). Resumidamente: você pode imprimir para jogar, não pode imprimir para comercializar.
+
+Salvo para a posteridade em https://archive.org/details/labydo em janeiro de 2025.
