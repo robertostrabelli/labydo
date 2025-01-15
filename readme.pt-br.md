@@ -39,8 +39,8 @@ Cada *carta-labirinto* possui 18 casas numeradas, percorríveis por um peão, on
 2. Distribua 5 *cartas-labirinto* e 1 *carta-entrada* para cada jogador. O jogador é livre para ocultar ou exibir suas cartas.
 3. Forme três montes com o restante das cartas.
 4. Cada jogador deve pôr na mesa sua *carta-entrada* e nela seu peão, na casa correspondente. As *cartas-entrada* de todos devem ser alinhadas para formar uma fileira inicial.
-5. Deixe um bom espaço livre à frente para a expansão do labirinto.
-6. Em seguida, cada jogador deve posicionar uma *carta-labirinto* em continuidade à sua *carta-entrada*, na posição que quiser, desde que as bordas (arestas e vértices) das cartas se alinhem e encostem.
+5. Em seguida, cada jogador deve posicionar uma *carta-labirinto* em continuidade à sua *carta-entrada*, na posição que quiser, desde que as bordas (arestas e vértices) das cartas se alinhem e encostem.
+6. Deixe um bom espaço livre à frente para a expansão do labirinto.
 7. O jogador inicial pode ser escolhido livremente.
 
 ## Mecânica do jogo
