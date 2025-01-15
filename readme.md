@@ -4,8 +4,6 @@
 
 ***Translated from Portuguese***
 
-Saved for posterity at https://archive.org/details/labydo on January 13, 2025.
-
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** is a dynamic and strategic board game for players who enjoy competition and tactical challenges. Perfect for fans of classic games like Ludo who want a more challenging experience and gameplay full of interaction and strategy.
@@ -170,3 +168,5 @@ Labydo is a game created by Roberto Strabelli in December 2024.
 robertostrabelli@gmail.com
 
 [Some rights reserved](license.md). In short: you may print it for play, but not for commercial purposes.
+
+Saved for posterity at https://archive.org/details/labydo on January, 2025.
