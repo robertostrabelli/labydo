@@ -40,8 +40,8 @@ Sur modula tabulo, kiu kreskas dum la ludo progresas, la ludantoj konstruas labi
 2. Donu al ĉiu ludanto 5 *labirintokartojn* kaj 1 *enirkarton*. Ludantoj povas kaŝi aŭ montri siajn kartojn.
 3. Formu tri stakojn kun la restantaj kartoj.
 4. Ĉiu ludanto metas sian *enirkarton* sur la tablon kun sia peono ĉe la komenca spaco. *Enirkartoj* devas esti vicigitaj por formi unuan vicon.
-5. Lasu bonan liberan spacon antaŭe por la ekspansio de la labirinto.
-6. Ĉiu ludanto devas aldoni unu *labirintokarton* apud sia *enirkarto*, certigante ke la randoj kaj verticoj de la kartoj kongruas.
+5. Ĉiu ludanto devas aldoni unu *labirintokarton* apud sia *enirkarto*, certigante ke la randoj kaj verticoj de la kartoj kongruas.
+6. Lasu bonan liberan spacon antaŭe por la ekspansio de la labirinto.
 7. Elektu la unuan ludanton libere.
 
 ## Ludmekaniko
