@@ -40,8 +40,8 @@ Each *labyrinth tile* features 18 numbered spaces connected by pathways, with wa
 2. Deal 5 *labyrinth tiles* and 1 *entrance tile* to each player. Players may choose to keep their tiles hidden or visible.
 3. Form three separate draw piles with the remaining tiles.
 4. Each player places their *entrance tile* and their pawn on the corresponding space. All *entrance tiles* should be aligned to form the starting row.
-5. Ensure there is ample space ahead for the labyrinth to expand.
-6. Each player then places one *labyrinth tile* connecting to their *entrance tile*, in any orientation they wish, as long as the edges and corners of the tiles align.
+5. Each player then places one *labyrinth tile* connecting to their *entrance tile*, in any orientation they wish, as long as the edges and corners of the tiles align.
+6. Ensure there is ample space ahead for the labyrinth to expand.
 7. Determine the starting player by any agreed-upon method.
 
 ## Gameplay
