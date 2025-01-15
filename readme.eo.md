@@ -150,16 +150,17 @@ Presu la dokumenton **cartas_print_A4.pdf** uzante 8 foliojn de blanka A4-papero
 
 **totalaj mezuradoj**
 
-- tuta labirinto (4x10 kartoj - 24x30 ĉeloj)
-- 5472x6840 pikseloj
-- 46,33x57,91 cm
+- 4x12 kartoj - 24x36 ĉeloj
+- 8208x5472 pikseloj
+- 69,49x46,331 cm
 
 ---
 
 # Versiaro
 
-Versio 1.0  
-Lasta revizio: 17:50 2025-01-13
+1.0 - Komenca eldono  
+2.0 - Simpligo de labirinto  
+Lasta revizio: 22:50 2025-01-14
 
 ---
 
