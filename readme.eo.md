@@ -4,8 +4,6 @@
 
 ***Tradukita el la portugala***
 
-Konservite por posteularo ĉe https://archive.org/details/labydo la 13-an de januaro 2025.
-
 <img src="img/mockup.png" title="Mockup" alt="Mockup" data-align="center" width="320">
 
 **Labydo** estas dinamika kaj strategia tabulludo por ludantoj, kiuj ĝuas konkuradon kaj taktikajn defiojn. Ĝi estas ideala por ŝatantoj de klasikaj ludoj kiel Ludo, kiuj serĉas pli defian sperton kaj partiojn plenajn de interagado kaj strategio.
@@ -170,3 +168,5 @@ Labydo estas ludo kreita de Roberto Strabelli en decembro 2024.
 robertostrabelli@gmail.com
 
 [Kelkaj rajtoj rezervitaj](license.md). Resume: vi povas presi por ludi, vi ne povas presi por komerci.
+
+Konservite por posteularo ĉe https://archive.org/details/labydo la 14-an de januaro 2025.
